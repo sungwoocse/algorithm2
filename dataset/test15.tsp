@@ -1,0 +1,22 @@
+NAME : test15
+COMMENT : Small circular test dataset for Held-Karp algorithm validation
+TYPE : TSP
+DIMENSION : 15
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+1 100 0
+2 96 28
+3 87 50
+4 71 71
+5 50 87
+6 28 96
+7 0 100
+8 -28 96
+9 -50 87
+10 -71 71
+11 -87 50
+12 -96 28
+13 -100 0
+14 -96 -28
+15 -87 -50
+EOF 
